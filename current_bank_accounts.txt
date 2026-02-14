@@ -1,0 +1,3 @@
+00001 John Doe             A 00100.00
+00002 Jane Smith           A 00250.00
+00003 END_OF_FILE          A 00000.00
